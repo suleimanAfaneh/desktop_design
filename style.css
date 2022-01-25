@@ -1,0 +1,79 @@
+body {
+  font-family: "Spartan";
+  padding: 7% 12%;
+}
+
+.first h1 {
+  color: hsl(300, 43%, 22%);
+  font-weight: bold;
+}
+
+.first p {
+  padding-right: 15%;
+  line-height: 1.7;
+}
+
+.first h1 {
+  padding-right: 25%;
+}
+
+.second {
+  padding-top: 1.5%;
+}
+
+.second p {
+  text-align: center;
+  color: hsl(300, 43%, 22%);
+  background-color: hsl(300, 24%, 96%);
+  margin-bottom: 4%;
+  font-weight: bold;
+  padding: 3% 10% 3% 3%;
+  border-radius: 7%;
+  width: 80%;
+  font-size: 0.8rem;
+  float: left;
+}
+
+.space {
+  margin-right: 5%;
+  letter-spacing: 0.2rem;
+}
+
+.card-image {
+  width: 17%;
+  border-radius: 50%;
+}
+
+.card-subtitle {
+  color: hsl(333, 80%, 67%);
+}
+
+.card {
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 3%;
+  height: 13rem;
+  width: 19.7rem;
+}
+
+.card-body {
+  padding: 10% 9%;
+}
+
+.nextToImg {
+  position: relative;
+  top: -22%;
+  left: 25%;
+  font-size: 0.75rem;
+}
+
+.card-inf {
+  color: white;
+  margin-top: 5%;
+  font-size: 0.7rem;
+}
+
+.card-par {
+  line-height: 1.7;
+  position: relative;
+  top: -13%;
+}
